@@ -1,0 +1,115 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "id": "3ea9",
+      "firstName": "Nethra",
+      "lastName": "Harini",
+      "email": "nethra@gmail.com",
+      "dob": "2002-12-31T18:30:00.000Z",
+      "gender": "female",
+      "education": "Post Graduate",
+      "company": "Netflix",
+      "experience": 3,
+      "package": 15
+    },
+    {
+      "id": "3964",
+      "firstName": "Dhanya",
+      "lastName": "Ravi",
+      "email": "dhanya@gmail.com",
+      "dob": "2003-10-29T18:30:00.000Z",
+      "gender": "female",
+      "education": "Post Graduate",
+      "company": "IBM",
+      "experience": 2,
+      "package": 12
+    },
+    {
+      "id": "eae4",
+      "firstName": "Gobika",
+      "lastName": "G",
+      "email": "gobika@gmail.com",
+      "dob": "2003-01-01T18:30:00.000Z",
+      "gender": "female",
+      "education": "Post Graduate",
+      "company": "Infosys",
+      "experience": 4,
+      "package": 14
+    },
+    {
+      "id": "d2c6",
+      "firstName": "Kanitha",
+      "lastName": "Thangavel",
+      "email": "kanitha@gmail.com",
+      "dob": "2003-01-03T18:30:00.000Z",
+      "gender": "female",
+      "education": "Post Graduate",
+      "company": "Google",
+      "experience": 2,
+      "package": 13
+    },
+    {
+      "id": "ff6c",
+      "firstName": "Vidhya",
+      "lastName": "Bharathi",
+      "email": "vidhya@gmail.com",
+      "dob": "2003-01-04T18:30:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "Amazon",
+      "experience": 4,
+      "package": 15
+    },
+    {
+      "id": "4bb6",
+      "firstName": "Sherley",
+      "lastName": "Rozzario",
+      "email": "sherley@gmail.com",
+      "dob": "2004-05-16T18:30:00.000Z",
+      "gender": "female",
+      "education": "Post Graduate",
+      "company": "Microsoft",
+      "experience": 3,
+      "package": 12
+    },
+    {
+      "id": "294f",
+      "firstName": "Vaishnavi",
+      "lastName": "Murugan",
+      "email": "vaishu@gmail.com",
+      "dob": "2004-01-05T18:30:00.000Z",
+      "gender": "female",
+      "education": "Post Graduate",
+      "company": "IBM",
+      "experience": 4,
+      "package": 15
+    }
+  ]
+}

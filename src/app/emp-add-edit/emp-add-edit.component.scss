@@ -1,0 +1,34 @@
+.content {
+    padding-top: 10px;
+}
+
+.row {
+    display: flex;
+    gap: 10px;
+}
+
+.flex-field {
+    flex: 1;
+}
+
+.align-items-center {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.gender-label {
+    min-width: 70px; /* Adjust this based on the space needed */
+}
+
+.gender-group {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.action{
+    padding: 0px 25px 20px;
+    button{
+        flex: 1;
+    }
+}

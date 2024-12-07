@@ -52,7 +52,6 @@
       "package": 12
     },
     {
-      "id": "eae4",
       "firstName": "Gobika",
       "lastName": "G",
       "email": "gobika@gmail.com",
@@ -61,7 +60,8 @@
       "education": "Post Graduate",
       "company": "Infosys",
       "experience": 4,
-      "package": 14
+      "package": 13,
+      "id": "eae4"
     },
     {
       "id": "d2c6",
